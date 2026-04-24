@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 104.14 72.39)
+		(at 16.51 19.05)
 		(size 53.34 44.45)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "57492013-ce66-4b1a-aeb4-b7d85251d918")
 		(property "Sheetname" "regulace"
-			(at 104.14 71.6784 0)
+			(at 16.51 18.3384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +33,7 @@
 			)
 		)
 		(property "Sheetfile" "regulace.kicad_sch"
-			(at 104.14 117.4246 0)
+			(at 16.51 64.0846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

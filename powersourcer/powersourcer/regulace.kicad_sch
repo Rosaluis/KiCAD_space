@@ -4564,7 +4564,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34f4a1a4-e3d1-4415-a1cd-fe06d4458f96")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR01"
 			(at 262.89 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -4624,7 +4624,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "#PWR03")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -4820,7 +4820,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "401a47f6-971f-4a9d-ba3a-f8fdd1a9186c")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR02"
 			(at 262.89 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4880,7 +4880,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "#PWR04")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -5060,7 +5060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5780d1fd-c7dc-4e36-9c8f-98edbc10d4a3")
-		(property "Reference" "H4"
+		(property "Reference" "H6"
 			(at 273.05 38.0999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5121,7 +5121,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "H4")
+					(reference "H6")
 					(unit 1)
 				)
 			)
@@ -5249,7 +5249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62d78abc-03f1-44fe-b3b6-2746adf911d5")
-		(property "Reference" "H6"
+		(property "Reference" "H4"
 			(at 116.84 40.6399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5310,7 +5310,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "H6")
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -6619,7 +6619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad199264-06c9-4d4e-9b7a-c57a65ae6a2b")
-		(property "Reference" "H3"
+		(property "Reference" "H5"
 			(at 273.05 22.8599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6680,7 +6680,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "H3")
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -7717,7 +7717,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2d5c5b3-8a70-4bf8-91d5-4b9a891e61ac")
-		(property "Reference" "H5"
+		(property "Reference" "H3"
 			(at 116.84 27.9399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7778,7 +7778,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "H5")
+					(reference "H3")
 					(unit 1)
 				)
 			)
