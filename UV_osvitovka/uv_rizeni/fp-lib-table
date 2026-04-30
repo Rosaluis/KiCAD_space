@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "C:/Users/jndl/Documents/KiCad/Git_KiCAD_space/HAM_Lib/HAM.pretty/Library.pretty") (options "") (descr ""))
+	(lib (name "HAM") (type "KiCad") (uri "C:/Users/jndl/Documents/KiCad/Git_KiCAD_space/HAM_Lib/HAM.pretty") (options "") (descr ""))
+)
