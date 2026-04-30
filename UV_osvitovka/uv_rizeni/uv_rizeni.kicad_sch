@@ -2957,7 +2957,11 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f61141f-12ca-4061-9793-e090d9eed292")
+<<<<<<< HEAD
 		(property "Reference" "J3"
+=======
+		(property "Reference" "J2"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 85.725 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2977,7 +2981,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:PinSocket_1x02_P2.54mm_Vertical_big_pads"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 85.09 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -3019,7 +3027,11 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
+<<<<<<< HEAD
 					(reference "J3")
+=======
+					(reference "J2")
+>>>>>>> parent of 1140df7 (Revert "update.")
 					(unit 1)
 				)
 			)
@@ -3037,7 +3049,11 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bb9ff5d-094b-4374-9407-250cda892bac")
+<<<<<<< HEAD
 		(property "Reference" "J2"
+=======
+		(property "Reference" "J3"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 184.15 48.26 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3057,7 +3073,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:TerminalBlock_CUI_TB007-508-03_1x03_P5.08mm_Horizontal"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 184.15 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -3102,7 +3122,11 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
+<<<<<<< HEAD
 					(reference "J2")
+=======
+					(reference "J3")
+>>>>>>> parent of 1140df7 (Revert "update.")
 					(unit 1)
 				)
 			)
@@ -3220,7 +3244,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+=======
+		(property "Footprint" "HAM_Lib:DIP-8_W7.62mm"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 144.78 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3298,7 +3326,11 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b90b076-4e55-4ca5-9695-82c51c074f2b")
+<<<<<<< HEAD
 		(property "Reference" "#PWR02"
+=======
+		(property "Reference" "#PWR01"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 45.72 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -3358,7 +3390,11 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
+<<<<<<< HEAD
 					(reference "#PWR02")
+=======
+					(reference "#PWR01")
+>>>>>>> parent of 1140df7 (Revert "update.")
 					(unit 1)
 				)
 			)
@@ -3376,7 +3412,11 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8dbc99bb-3e85-41c6-bca7-271c6f9b0176")
+<<<<<<< HEAD
 		(property "Reference" "C2"
+=======
+		(property "Reference" "C1"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 114.3 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3398,7 +3438,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:C_Disc_D10.5mm_W5.0mm_P5.00mm"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 111.4552 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3440,7 +3484,11 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
+<<<<<<< HEAD
 					(reference "C2")
+=======
+					(reference "C1")
+>>>>>>> parent of 1140df7 (Revert "update.")
 					(unit 1)
 				)
 			)
@@ -3480,7 +3528,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 99.822 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -3540,7 +3592,11 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "975986ba-5832-40b7-85a3-0fe019ac940f")
+<<<<<<< HEAD
 		(property "Reference" "#PWR03"
+=======
+		(property "Reference" "#PWR02"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 45.72 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -3600,7 +3656,11 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
+<<<<<<< HEAD
 					(reference "#PWR03")
+=======
+					(reference "#PWR02")
+>>>>>>> parent of 1140df7 (Revert "update.")
 					(unit 1)
 				)
 			)
@@ -3640,7 +3700,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 141.732 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -3700,7 +3764,11 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6998995-ca68-4fed-aca1-905e0dc63107")
+<<<<<<< HEAD
 		(property "Reference" "#PWR01"
+=======
+		(property "Reference" "#PWR03"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 101.6 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -3760,7 +3828,11 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
+<<<<<<< HEAD
 					(reference "#PWR01")
+=======
+					(reference "#PWR03")
+>>>>>>> parent of 1140df7 (Revert "update.")
 					(unit 1)
 				)
 			)
@@ -3878,7 +3950,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 38.1 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -3960,7 +4036,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:SW_PUSH_6mm_H5mm"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 96.52 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4042,7 +4122,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+=======
+		(property "Footprint" "HAM_Lib:D_DO-41_SOD81_P10.16mm_Horizontal"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 151.765 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -4124,7 +4208,11 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4c7dd8a-9ee4-4cc8-909c-491db754e563")
+<<<<<<< HEAD
 		(property "Reference" "C1"
+=======
+		(property "Reference" "C2"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 147.32 89.2809 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4146,7 +4234,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:CP_Radial_D10.0mm_P5.00mm"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 144.4752 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -4188,7 +4280,11 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
+<<<<<<< HEAD
 					(reference "C1")
+=======
+					(reference "C2")
+>>>>>>> parent of 1140df7 (Revert "update.")
 					(unit 1)
 				)
 			)
@@ -4228,7 +4324,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Relay_THT:Relay_SPDT_Finder_40.51"
+=======
+		(property "Footprint" "HAM_Lib:Relay_SPDT_Finder_40.51"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 208.026 88.646 0)
 			(hide yes)
 			(show_name no)
@@ -4317,7 +4417,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" ""
+=======
+		(property "Footprint" "HAM_Lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+>>>>>>> parent of 1140df7 (Revert "update.")
 			(at 135.89 58.42 0)
 			(hide yes)
 			(show_name no)
