@@ -1,12 +1,6 @@
 {
   "board": {
     "3dviewports": [],
-    "design_settings": {
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
-      "track_widths": [],
-      "via_dimensions": []
-    },
     "ipc2581": {
       "bom_rev": "",
       "dist": "",
@@ -223,6 +217,7 @@
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
+      "global_label_dangling": "warning",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
       "isolated_pin_label": "warning",
@@ -257,7 +252,6 @@
       "wire_dangling": "error"
     }
   },
-  "legacy": [],
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
@@ -297,10 +291,14 @@
   },
   "pcbnew": {
     "last_paths": {
+      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
+      "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -397,39 +395,47 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.25,
+      "label_size_ratio": 0.375,
       "operating_point_overlay_i_precision": 3,
       "operating_point_overlay_i_range": "~A",
       "operating_point_overlay_v_precision": 3,
       "operating_point_overlay_v_range": "~V",
       "overbar_offset_ratio": 1.23,
-      "pin_symbol_size": 0.0,
-      "text_offset_ratio": 0.08
+      "pin_symbol_size": 25.0,
+      "text_offset_ratio": 0.15
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
     "meta": {
       "version": 1
     },
+    "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
+    "space_save_all_events": true,
+    "spice_current_sheet_as_root": false,
+    "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
+    "spice_save_all_currents": false,
+    "spice_save_all_dissipations": false,
+    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
         "filename": "uv_rizeni.kicad_sch",
-        "name": "uv_rizeni",
+        "name": "Hlavní",
         "uuid": "88ef6dbc-0d58-4fd4-a096-6feaeb149775"
       }
     ],
-    "used_designators": "D1-2,#PWR1-5,K1,C1-2,R1-3,J1-3,RV1,SW1,U1",
+    "used_designators": "R3,D2",
     "variants": []
   },
   "sheets": [
     [
       "88ef6dbc-0d58-4fd4-a096-6feaeb149775",
-      "uv_rizeni"
+      "Hlavní"
     ]
   ],
   "text_variables": {},

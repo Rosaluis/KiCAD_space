@@ -3405,7 +3405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" ""
 			(at 159.512 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -3543,7 +3543,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7522134d-afbe-4ee4-8e92-714cf1243ac0")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 165.1 93.0274 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3565,7 +3565,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "HAM:PinHeader_1x02_P2.54mm_Vertical"
+		(property "Footprint" ""
 			(at 161.29 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3618,7 +3618,7 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -4078,7 +4078,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "HAM_Lib:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 			(at 141.732 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -4458,7 +4458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df5a519d-b172-485b-b35f-b2e3f178ef50")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 176.53 86.3599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4544,7 +4544,7 @@
 		(instances
 			(project "uv_rizeni"
 				(path "/88ef6dbc-0d58-4fd4-a096-6feaeb149775"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
