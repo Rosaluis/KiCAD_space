@@ -1,0 +1,209 @@
+(footprint "JST_NV_B03P-NV_1x03_P5.00mm_Vertical"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "JST NV series connector, B03P-NV (http://www.jst-mfg.com/product/pdf/eng/eNV.pdf)")
+	(tags "connector JST NV vertical")
+	(property "Reference" "REF**"
+		(at 5 -4.9 0)
+		(layer "F.SilkS")
+		(uuid "946a7a5b-489a-44f0-a09d-9b278b27fcf5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "JST_NV_B03P-NV_1x03_P5.00mm_Vertical"
+		(at 5 6 0)
+		(layer "F.Fab")
+		(uuid "00d02b5e-9c16-41d4-9482-a3663d2e3818")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ba83210-6c5d-4c52-98e0-c8bd35a4d985")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bba2eed4-1c24-4bf6-90d7-347f44995c00")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "connector/JST"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4935b13d-14d4-4fdb-8742-b028217fe497")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.41 -0.3)
+		(end -2.81 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "786b2f69-cd37-4c5b-aa85-889c6fe492ac")
+	)
+	(fp_line
+		(start -3.41 0.3)
+		(end -3.41 -0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a0ae9761-534d-4f37-b014-546b46ceb988")
+	)
+	(fp_line
+		(start -2.81 0)
+		(end -3.41 0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "67eb83c5-06b3-4545-8478-c98adf47066d")
+	)
+	(fp_rect
+		(start -2.61 -3.81)
+		(end 12.61 4.91)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d2b20934-4074-4343-965c-c141104e451d")
+	)
+	(fp_rect
+		(start -3 -4.2)
+		(end 13 5.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "beff5dae-1706-432b-887d-0f4d63058e8a")
+	)
+	(fp_line
+		(start -2.5 -2)
+		(end 12.5 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c6f2f292-571e-4d21-b07e-72b02929a474")
+	)
+	(fp_line
+		(start -2.5 -1)
+		(end -1.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cbcd174b-2ee7-4de6-b142-d02066cf737c")
+	)
+	(fp_line
+		(start -2.5 1)
+		(end -1.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c7a915ea-c811-43e5-aaba-7465809f20cc")
+	)
+	(fp_rect
+		(start -2.5 -3.7)
+		(end 12.5 4.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "b68d6263-43b0-4e22-9255-9862624902be")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5 4.1 0)
+		(layer "F.Fab")
+		(uuid "eadb8833-5966-46bf-bdce-19f46bc2114e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 4 5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.092593)
+		(uuid "0f23026b-eb15-4e3c-8e6e-d082350e8447")
+	)
+	(pad "2" thru_hole roundrect
+		(at 5 0)
+		(size 4 5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.092593)
+		(uuid "31c51432-7951-425f-b01a-a1b96b922826")
+	)
+	(pad "3" thru_hole roundrect
+		(at 10 0)
+		(size 4 5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.092593)
+		(uuid "63f6c277-9db9-41ad-84ab-e257afca1ded")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_JST.3dshapes/JST_NV_B03P-NV_1x03_P5.00mm_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
