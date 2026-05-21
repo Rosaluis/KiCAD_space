@@ -4500,7 +4500,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "275f73d8-44ea-4d2b-b2e4-f91350511579")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 130.81 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4564,7 +4564,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -4582,7 +4582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d663a57-4651-4c2b-99d8-30376450a534")
-		(property "Reference" "R19"
+		(property "Reference" "R16"
 			(at 191.77 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4646,7 +4646,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R19")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -4921,7 +4921,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36e5eabf-1aa5-43f3-8ec6-2b92a757fdce")
-		(property "Reference" "R10"
+		(property "Reference" "R13"
 			(at 166.37 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4985,7 +4985,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R10")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -5003,7 +5003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d10fb42-8c2d-49b0-ac4c-56cb3e74479c")
-		(property "Reference" "R23"
+		(property "Reference" "R8"
 			(at 120.65 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5067,7 +5067,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R23")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -5403,7 +5403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bbb3e17-6e36-40da-81ec-6eb526a855b3")
-		(property "Reference" "R17"
+		(property "Reference" "R12"
 			(at 156.21 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5467,7 +5467,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R17")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -5595,7 +5595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61324b9a-b1ca-4f9d-b4e5-81a39ab4586a")
-		(property "Reference" "R20"
+		(property "Reference" "R18"
 			(at 209.55 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5659,7 +5659,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R20")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -5866,7 +5866,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67d661d8-c1b4-45a3-8016-b62ae03af64d")
-		(property "Reference" "R16"
+		(property "Reference" "R10"
 			(at 138.43 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5930,7 +5930,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R16")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -6145,7 +6145,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70b390c3-f351-4837-a63a-543adcd5f6df")
-		(property "Reference" "R9"
+		(property "Reference" "R11"
 			(at 148.59 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6209,7 +6209,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R9")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -6307,7 +6307,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71704887-43d1-402e-85b9-0d56b0ae17f7")
-		(property "Reference" "R13"
+		(property "Reference" "R19"
 			(at 219.71 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6371,7 +6371,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R13")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -6499,7 +6499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74bb4aef-29dc-442e-8804-dcd0f189bc4f")
-		(property "Reference" "R14"
+		(property "Reference" "R21"
 			(at 237.49 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6563,7 +6563,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R14")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -6581,7 +6581,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7636b32e-6bf5-4d69-af20-205f589fb29e")
-		(property "Reference" "R12"
+		(property "Reference" "R17"
 			(at 201.93 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6645,7 +6645,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R12")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -7047,7 +7047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ce61c82-e007-4083-8c47-a0229087cdea")
-		(property "Reference" "R18"
+		(property "Reference" "R14"
 			(at 173.99 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7111,7 +7111,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R18")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -7129,7 +7129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d6e645b-00f4-4647-9b55-3d2602132399")
-		(property "Reference" "R15"
+		(property "Reference" "R23"
 			(at 255.27 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7193,7 +7193,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R15")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -7812,7 +7812,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "caaabef7-dec2-446b-ade0-aef74c190f7a")
-		(property "Reference" "R11"
+		(property "Reference" "R15"
 			(at 184.15 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7876,7 +7876,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R11")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -8309,7 +8309,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0bb5343-2b96-4ee9-9f18-26747471661c")
-		(property "Reference" "R21"
+		(property "Reference" "R20"
 			(at 227.33 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8373,7 +8373,7 @@
 		(instances
 			(project "powersourcer"
 				(path "/3b543968-b752-41ec-9e14-3a471f109ffc/57492013-ce66-4b1a-aeb4-b7d85251d918"
-					(reference "R21")
+					(reference "R20")
 					(unit 1)
 				)
 			)
