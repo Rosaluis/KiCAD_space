@@ -1,0 +1,228 @@
+(footprint "PinHeader_1x01_P1.00mm_Vertical"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
+	(tags "Through hole pin header THT 1x01 1.00mm single row")
+	(property "Reference" "REF**"
+		(at 0 -1.61 0)
+		(layer "F.SilkS")
+		(uuid "83f75b4f-8e77-40b7-9a42-29ffbd82ef28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PinHeader_1x01_P1.00mm_Vertical"
+		(at 0 1.61 0)
+		(layer "F.Fab")
+		(uuid "338e634a-a823-4e8d-aa97-d22ff366e831")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32a8b200-ff7e-4c60-a741-632c47273ad7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f8a26bc-f36e-4345-b603-78b68dd38831")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "connector/pin_header_socket"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ad202b3a-e7a3-4d26-9b1f-0e16303258c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.745 -0.735)
+		(end 0 -0.735)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b038b45d-d7aa-446d-b230-1df2866ee2bd")
+	)
+	(fp_line
+		(start -0.745 0)
+		(end -0.745 -0.735)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "53431390-26cc-4553-af8e-70beb84d94c9")
+	)
+	(fp_line
+		(start -0.745 0.735)
+		(end -0.745 0.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e477207b-4b3c-4c48-bf1f-e5dff79f3b91")
+	)
+	(fp_line
+		(start -0.745 0.735)
+		(end -0.685565 0.735)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2692dc36-ae58-4350-963b-055ad27a356a")
+	)
+	(fp_line
+		(start -0.745 0.735)
+		(end 0.745 0.735)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "191de6a9-e974-4609-b249-2b671ecb414e")
+	)
+	(fp_line
+		(start 0.685565 0.735)
+		(end 0.745 0.735)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5604e23-51fe-4918-bb1d-83d2b8b9bb81")
+	)
+	(fp_line
+		(start 0.745 0.735)
+		(end 0.745 0.61)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5723cbd5-07d1-4da1-bf7a-09dcb0b93c9e")
+	)
+	(fp_rect
+		(start -1.14 -1)
+		(end 1.14 1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "32eec23b-7076-4835-afe4-0d27a82147ac")
+	)
+	(fp_line
+		(start -0.635 -0.1825)
+		(end -0.3175 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "078cef2f-4e30-459d-a75f-4ffc99c7ccee")
+	)
+	(fp_line
+		(start -0.635 0.5)
+		(end -0.635 -0.1825)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1fe96098-6db9-4858-b598-2340dcf44d50")
+	)
+	(fp_line
+		(start -0.3175 -0.5)
+		(end 0.635 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e42126ea-ca72-49c3-b4c7-5dd944d27fa2")
+	)
+	(fp_line
+		(start 0.635 -0.5)
+		(end 0.635 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f64a2cbd-4bc8-410c-8c2a-8c1fd6200676")
+	)
+	(fp_line
+		(start 0.635 0.5)
+		(end -0.635 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d47b15ad-8591-441b-8cc4-6ab5d1ee71df")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "f8d4a237-9209-402d-8c9a-64d19c3c5451")
+		(effects
+			(font
+				(size 0.76 0.76)
+				(thickness 0.114)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 4 4)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2dbf8a38-1a7d-4b8e-947e-7b3236c61a56")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x01_P1.00mm_Vertical.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
